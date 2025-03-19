@@ -11,7 +11,7 @@
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build"
 	},
-	"homepage": "https://your-username.github.io/your-repo",
+	"homepage": "https://hridaykh.github.io/my-react-app/",
 	"dependencies": {
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
