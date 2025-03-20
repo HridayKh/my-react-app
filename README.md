@@ -1,3 +1,6 @@
+# basic tic-tac-toe app in react to learn and get comfortable with react
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
